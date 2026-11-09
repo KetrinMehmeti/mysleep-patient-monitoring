@@ -60,6 +60,7 @@ media/
 docs/
   ARCHITECTURE.md        System overview and data model
   LIMITATIONS.md         Security, scope and reproducibility limitations
+  MySleepReport.pdf      Full report of the Project
 requirements.txt
 .gitignore
 README.md
@@ -101,6 +102,6 @@ This repository preserves the original GUI and representative supporting utiliti
 
 Some workflows still reflect academic prototype assumptions. The code has not been validated for clinical use, and authentication, query handling and input validation require further hardening. See [Limitations](docs/LIMITATIONS.md).
 
-## Credits
+## Authors
 
-Developed as a university group project. Team members and contribution details should be added with the group's agreement before public release.
+Ketrin Mehmeti, Giorgia Moroni, Matteo Frassetto, Andrea Guidi, Alessandro Lima, Francesco Margutti | Politecnico di Milano
