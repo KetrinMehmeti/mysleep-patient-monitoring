@@ -1,0 +1,5 @@
+# Original desktop GUI dependencies
+customtkinter>=5.2,<6
+Pillow>=9,<12
+# Used by the optional synthetic plotting helper
+matplotlib>=3.7
